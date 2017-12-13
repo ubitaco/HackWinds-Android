@@ -45,3 +45,7 @@ Thumbs.db
 
 # Sublime-Text
 *.sublime-workspace
+
+# vim
+.swp
+*~
