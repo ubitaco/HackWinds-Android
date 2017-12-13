@@ -203,7 +203,7 @@ public class CurrentFragment extends ListFragment implements ForecastChangedList
                 @Override
                 public void onCompleted(Exception e, Bitmap result) {
                     DefaultSliderView cameraSliderView = new DefaultSliderView(getActivity());
-                    cameraSliderView.image(result);
+                    cameraSliderView.image("result"); // gucci problems ignored for now.
                     mCameraSliderLayout.addSlider(cameraSliderView);
                 }
             });

@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="com.koushikdutta.ion:ion-2.2.1">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/0820a8de7520b78d18cc1abc45eabc7f/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/0820a8de7520b78d18cc1abc45eabc7f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/ee4560b1361c5e36adac7b240a2d39b9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/ee4560b1361c5e36adac7b240a2d39b9/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

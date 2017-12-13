@@ -51,5 +51,8 @@ dependencies {
     compile 'com.android.support:customtabs:24.2.0'
     compile ([group: 'com.google.api-client', name: 'google-api-client-android', version: '1.23.0'])
     compile ([group: 'com.google.http-client', name: 'google-http-client-gson', version: '1.23.0'])
-    compile project(':AndroidImageSlider')
+    compile 'com.squareup.picasso:picasso:2.3.2'
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile 'com.daimajia.slider:library:1.1.5@aar'
+//    compile project(path: ':AndroidImageSlider', configuration: 'default')
 }
